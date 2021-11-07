@@ -2,4 +2,3 @@
 from math import pi 
 def main():
     return round(pi,4)
-print(main())
